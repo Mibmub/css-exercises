@@ -1,19 +1,18 @@
 .oddN {
-    background-color: palevioletred;
+    background-color: rgb(216, 112, 147);
     font-family: Verdana, 'DejaVU Sans', sans-serif;
 }
 
 #N2 {
-    color: blue;
+    color:  #9999ff;    ;
     font-size: 36px;
 }
 
-.oddN .N3 {
+.fontA {
     font-size: 24px;
 }
 
 #N4 {
-    background-color: lightgreen;
-    font-size: 24px;
+    background-color: hsl(135, 49%, 55%);
     font-weight: bold;
 }
